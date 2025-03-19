@@ -1,4 +1,4 @@
-import 'package:first_project/presentation/widgets/bodyWidget.dart';
+import 'package:first_project/presentation/widgets/buildBodyWidget.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

@@ -23,7 +23,6 @@ class InforScreen extends StatelessWidget {
     );
   }
 
-
 }
 
 

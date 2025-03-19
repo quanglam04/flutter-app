@@ -15,11 +15,11 @@ class buildColumnBodyWidget extends StatelessWidget {
               children: [
                 ElevatedButton(
                   onPressed: () {},
-                  child: Text("TechStack: JavaScript"),
+                  child: Text("TechStack: Java"),
                 ),
                 ElevatedButton(
                   onPressed: () {},
-                  child: Text("TechStack: Kong-GateWay"),
+                  child: Text("TechStack: Kong"),
                 ),
               ],
             ),
